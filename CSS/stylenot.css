@@ -407,7 +407,7 @@ body.dark .container {
     color: #ffffff;
     border-radius: 10px;
     padding: 10px;
-    margin: 30px;
+   margin: 30px auto;
 }
 
 body.dark .card {
